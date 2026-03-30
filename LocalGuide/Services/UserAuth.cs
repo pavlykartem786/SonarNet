@@ -6,9 +6,6 @@ using LocalGuide.Models;
 namespace LocalGuide.Services
 {
     /// <summary>
-    /// Provides authentication operations for the LocalGuide platform,
-    /// including password hashing, verification, and token generation.
-    /// Required for Lab 5 (authentication and security testing).
     /// </summary>
     public class UserAuth
     {
@@ -31,7 +28,6 @@ namespace LocalGuide.Services
 
         /// <summary>
         /// Hashes a plain-text password using a salted SHA-256 approach
-        /// (in production, replace with BCrypt.Net-Next or ASP.NET Identity).
         /// </summary>
         /// <param name="plainPassword">The plain-text password to hash.</param>
         /// <returns>A Base64-encoded hash string containing salt and hash.</returns>
@@ -45,7 +41,6 @@ namespace LocalGuide.Services
             using var rng = RandomNumberGenerator.Create();
             rng.GetBytes(saltBytes);
 
-            // Concatenate salt + UTF-8 password bytes and compute SHA-256
             var passwordBytes = Encoding.UTF8.GetBytes(plainPassword);
             var combined = new byte[saltBytes.Length + passwordBytes.Length];
             Buffer.BlockCopy(saltBytes, 0, combined, 0, saltBytes.Length);
@@ -59,7 +54,6 @@ namespace LocalGuide.Services
         }
 
         /// <summary>
-        /// Verifies that a plain-text password matches a stored hash.
         /// </summary>
         /// <param name="plainPassword">The plain-text password to verify.</param>
         /// <param name="storedHash">The stored hash string produced by <see cref="HashPassword"/>.</param>
@@ -88,8 +82,6 @@ namespace LocalGuide.Services
         }
 
         /// <summary>
-        /// Generates a simple authentication token for the given user.
-        /// This is a simplified HMAC-SHA256 token; replace with a full JWT library in production.
         /// </summary>
         /// <param name="user">The authenticated user for whom to generate the token.</param>
         /// <returns>A Base64-encoded token string.</returns>
@@ -106,12 +98,10 @@ namespace LocalGuide.Services
             var payloadBytes = Encoding.UTF8.GetBytes(payload);
             var signatureBytes = hmac.ComputeHash(payloadBytes);
 
-            // Return payload.signature (both Base64-encoded)
             return Convert.ToBase64String(payloadBytes) + "." + Convert.ToBase64String(signatureBytes);
         }
 
         /// <summary>
-        /// Validates an authentication token and extracts the user ID.
         /// </summary>
         /// <param name="token">The token string to validate.</param>
         /// <param name="userId">When this method returns true, contains the authenticated user ID.</param>
