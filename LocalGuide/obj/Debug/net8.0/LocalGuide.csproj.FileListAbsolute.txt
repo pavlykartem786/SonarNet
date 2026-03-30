@@ -1,0 +1,42 @@
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfoInputs.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfo.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.csproj.CoreCompileInputs.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.exe
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.deps.json
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.runtimeconfig.json
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\refint\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.genruntimeconfig.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\obj\Debug\net8.0\ref\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.exe
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.deps.json
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.runtimeconfig.json
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfoInputs.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfo.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.csproj.CoreCompileInputs.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\refint\LocalGuide.dll
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.genruntimeconfig.cache
+C:\study\3 курс\Заказ\ЯПЗТ\Вадим\LocalGuide\LocalGuide\obj\Debug\net8.0\ref\LocalGuide.dll
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.exe
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.deps.json
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.runtimeconfig.json
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\bin\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.GeneratedMSBuildEditorConfig.editorconfig
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfoInputs.cache
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.AssemblyInfo.cs
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.csproj.CoreCompileInputs.cache
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.dll
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\refint\LocalGuide.dll
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.pdb
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\LocalGuide.genruntimeconfig.cache
+C:\study\3 курс\$labs\ЯПЗТ\Накутний Владислав\LocalGuide\LocalGuide\obj\Debug\net8.0\ref\LocalGuide.dll

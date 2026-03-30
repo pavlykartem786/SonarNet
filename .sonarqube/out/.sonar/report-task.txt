@@ -1,0 +1,6 @@
+projectKey=LocalGuide
+serverUrl=http://localhost:9000
+serverVersion=26.3.0.120487
+dashboardUrl=http://localhost:9000/dashboard?id=LocalGuide
+ceTaskId=80fe2a26-4966-4358-93ce-914014b08507
+ceTaskUrl=http://localhost:9000/api/ce/task?id=80fe2a26-4966-4358-93ce-914014b08507

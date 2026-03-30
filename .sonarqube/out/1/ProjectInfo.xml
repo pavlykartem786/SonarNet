@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>LocalGuide.Tests</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>ceab895c-451a-46e5-aebe-50999b0eb4ae</ProjectGuid>
+  <FullPath>C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide.Tests\LocalGuide.Tests.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResultFiles>
+    <AnalysisResultFile Id="FilesToAnalyze" Location="C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\.sonarqube\conf\1\FilesToAnalyze.txt" />
+  </AnalysisResultFiles>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\.sonarqube\out\1\Issues.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\.sonarqube\out\1</Property>
+    <Property Name="sonar.cs.scanner.telemetry">C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\.sonarqube\out\1\Telemetry.json</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+  <TargetFramework>net8.0</TargetFramework>
+</ProjectInfo>

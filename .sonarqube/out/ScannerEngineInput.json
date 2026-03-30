@@ -1,0 +1,136 @@
+{
+  "scannerProperties": [
+    {
+      "key": "sonar.scanner.app",
+      "value": "ScannerMSBuild"
+    },
+    {
+      "key": "sonar.scanner.appVersion",
+      "value": "11.1"
+    },
+    {
+      "key": "sonar.scanner.bootstrapStartTime",
+      "value": "1772993966000"
+    },
+    {
+      "key": "sonar.projectKey",
+      "value": "LocalGuide"
+    },
+    {
+      "key": "sonar.working.directory",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\.sonar"
+    },
+    {
+      "key": "sonar.projectBaseDir",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide"
+    },
+    {
+      "key": "sonar.pullrequest.cache.basepath",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide"
+    },
+    {
+      "key": "sonar.sources",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.vs\\LocalGuide\\v17\\DocumentLayout.backup.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.vs\\LocalGuide\\v17\\DocumentLayout.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\cloc_report.json"
+    },
+    {
+      "key": "sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "sonar.modules",
+      "value": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7,CEAB895C-451A-46E5-AEBE-50999B0EB4AE"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.projectKey",
+      "value": "LocalGuide:31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.projectName",
+      "value": "LocalGuide"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.projectBaseDir",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.working.directory",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\.sonar\\mod0"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.tests",
+      "value": ""
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.sources",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Models\\Location.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Models\\Review.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Models\\User.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Program.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Services\\LocationService.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\Services\\UserAuth.cs,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\obj\\LocalGuide.csproj.nuget.dgspec.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\obj\\project.assets.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\bin\\Debug\\net8.0\\LocalGuide.deps.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide\\bin\\Debug\\net8.0\\LocalGuide.runtimeconfig.json"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\0"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\0\\Issues.json"
+    },
+    {
+      "key": "31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7.sonar.cs.scanner.telemetry",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\0\\Telemetry.json"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.projectKey",
+      "value": "LocalGuide:CEAB895C-451A-46E5-AEBE-50999B0EB4AE"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.projectName",
+      "value": "LocalGuide.Tests"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.projectBaseDir",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.working.directory",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\.sonar\\mod1"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.sourceEncoding",
+      "value": "utf-8"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.sources",
+      "value": ""
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.tests",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\obj\\LocalGuide.Tests.csproj.nuget.dgspec.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\obj\\project.assets.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\bin\\Debug\\net8.0\\LocalGuide.deps.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\bin\\Debug\\net8.0\\LocalGuide.runtimeconfig.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\bin\\Debug\\net8.0\\LocalGuide.Tests.deps.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\bin\\Debug\\net8.0\\LocalGuide.Tests.runtimeconfig.json,C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\LocalGuide.Tests\\LocationServiceTests.cs"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.cs.analyzer.projectOutPaths",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\1"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.cs.roslyn.reportFilePaths",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\1\\Issues.json"
+    },
+    {
+      "key": "CEAB895C-451A-46E5-AEBE-50999B0EB4AE.sonar.cs.scanner.telemetry",
+      "value": "C:\\study\\3 курс\\Заказ\\ЯПЗТ\\Новая папка\\LocalGuide\\.sonarqube\\out\\1\\Telemetry.json"
+    },
+    {
+      "key": "sonar.token",
+      "value": "***"
+    },
+    {
+      "key": "sonar.host.url",
+      "value": "http://localhost:9000"
+    },
+    {
+      "key": "sonar.visualstudio.enable",
+      "value": "false"
+    }
+  ]
+}

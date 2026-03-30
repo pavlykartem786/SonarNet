@@ -1,0 +1,413 @@
+{
+  "$schema": "http://json.schemastore.org/sarif-1.0.0",
+  "version": "1.0.0",
+  "runs": [
+    {
+      "tool": {
+        "name": "Компилятор Microsoft (R) Visual C#",
+        "version": "4.14.0.0",
+        "fileVersion": "4.14.0-3.25262.10 (8edf7bcd)",
+        "semanticVersion": "4.14.0",
+        "language": "ru-RU"
+      },
+      "results": [
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'HashPassword' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S2325",
+          "level": "warning",
+          "message": "Make 'VerifyPassword' a static method.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 21,
+                  "endLine": 67,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1862",
+          "level": "note",
+          "message": "Рекомендуется использовать перегрузку метода сравнения строк \"string.Contains(string)\", которая использует значение перечисления \"StringComparison\", но помните, что при этом поведение может немного измениться, поэтому проведите тщательное тестирование после применения этой рекомендации. Если же сравнение с учетом культуры не требуется, попробуйте использовать \"StringComparison.OrdinalIgnoreCase\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/LocationService.cs",
+                "region": {
+                  "startLine": 70,
+                  "startColumn": 17,
+                  "endLine": 70,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "LeftOffendingMethod": "ToLowerInvariant",
+              "RightOffendingMethod": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1862",
+          "level": "note",
+          "message": "Рекомендуется использовать перегрузку метода сравнения строк \"string.Contains(string)\", которая использует значение перечисления \"StringComparison\", но помните, что при этом поведение может немного измениться, поэтому проведите тщательное тестирование после применения этой рекомендации. Если же сравнение с учетом культуры не требуется, попробуйте использовать \"StringComparison.OrdinalIgnoreCase\".",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/LocationService.cs",
+                "region": {
+                  "startLine": 71,
+                  "startColumn": 17,
+                  "endLine": 71,
+                  "endColumn": 61
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "LeftOffendingMethod": "ToLowerInvariant",
+              "RightOffendingMethod": null
+            }
+          }
+        },
+        {
+          "ruleId": "CA1510",
+          "level": "note",
+          "message": "Используйте \"ArgumentNullException.ThrowIfNull\" вместо явного вызова нового экземпляра исключения",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/LocationService.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 13,
+                  "endLine": 107,
+                  "endColumn": 85
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/LocationService.cs",
+                "region": {
+                  "startLine": 107,
+                  "startColumn": 17,
+                  "endLine": 107,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1510",
+          "level": "note",
+          "message": "Используйте \"ArgumentNullException.ThrowIfNull\" вместо явного вызова нового экземпляра исключения",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 13,
+                  "endLine": 41,
+                  "endColumn": 95
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 41,
+                  "startColumn": 17,
+                  "endLine": 41,
+                  "endColumn": 30
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1510",
+          "level": "note",
+          "message": "Используйте \"ArgumentNullException.ThrowIfNull\" вместо явного вызова нового экземпляра исключения",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 13,
+                  "endLine": 99,
+                  "endColumn": 77
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 17,
+                  "endLine": 99,
+                  "endColumn": 21
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Предпочитать статический метод \"System.Security.Cryptography.SHA256.HashData\" методу \"ComputeHash\"",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 84,
+                  "startColumn": 33,
+                  "endLine": 84,
+                  "endColumn": 58
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 83,
+                  "startColumn": 23,
+                  "endLine": 83,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1850",
+          "level": "note",
+          "message": "Предпочитать статический метод \"System.Security.Cryptography.SHA256.HashData\" методу \"ComputeHash\"",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 55,
+                  "startColumn": 29,
+                  "endLine": 55,
+                  "endColumn": 54
+                }
+              }
+            }
+          ],
+          "relatedLocations": [
+            {
+              "physicalLocation": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 54,
+                  "startColumn": 23,
+                  "endLine": 54,
+                  "endColumn": 44
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1,
+            "customProperties": {
+              "ComputeTypePropertyKey": "ComputeHash",
+              "DeleteHashCreationPropertyKey": "DeleteHashCreationPropertyKey",
+              "HashCreationIndexPropertyKey": "0",
+              "TargetHashTypeDiagnosticPropertyKey": "SHA256"
+            }
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Член \"HashPassword\" не обращается к данным экземпляров, поэтому его можно пометить как статический.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 39,
+                  "startColumn": 23,
+                  "endLine": 39,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Член \"VerifyPassword\" не обращается к данным экземпляров, поэтому его можно пометить как статический.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///C:/study/3%20%D0%BA%D1%83%D1%80%D1%81/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7/%D0%AF%D0%9F%D0%97%D0%A2/%D0%9D%D0%BE%D0%B2%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0/LocalGuide/LocalGuide/Services/UserAuth.cs",
+                "region": {
+                  "startLine": 67,
+                  "startColumn": 21,
+                  "endLine": 67,
+                  "endColumn": 35
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        }
+      ],
+      "rules": {
+        "CA1510": {
+          "id": "CA1510",
+          "shortDescription": "Использовать вспомогательное приложение по вызову ArgumentNullException",
+          "fullDescription": "Помощники по вызову являются более простыми и эффективными, чем блок if, создающий новый экземпляр исключения.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1510",
+          "properties": {
+            "category": "Maintainability",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Пометьте члены как статические",
+          "fullDescription": "Члены, которые не обращаются к данным экземпляров и не вызывают методы экземпляров, можно пометить как статические. После этого компилятор создаст невиртуальные места для вызова этих членов. Это может привести к ощутимому росту производительности для чувствительного к производительности кода.",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "PortedFromFxCop",
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1850": {
+          "id": "CA1850",
+          "shortDescription": "Предпочитать статический метод \"HashData\" методу \"ComputeHash\"",
+          "fullDescription": "Вместо создания экземпляра HashAlgorithm и управления этим экземпляром для вызова метода \"ComputeHash\" более эффективно использовать статический метод \"HashData\".",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1850",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "CA1862": {
+          "id": "CA1862",
+          "shortDescription": "Используйте перегрузки метода \"StringComparison\" для сравнения строк без учета регистра",
+          "fullDescription": "Не вызывайте \"ToLower\", \"ToUpper\", \"ToLowerInvariant\" и \"ToUpperInvariant\" для сравнения строк без учета регистра, поскольку это приведет к выделению. Вместо этого лучше вызывать перегрузки методов \"Contains\", \"IndexOf\" и \"StartsWith\", которые используют значение перечисления \"StringComparison\" для сравнения без учета регистра. При переходе на использование перегрузки, которая использует \"StringComparison\", поведение может немного измениться, поэтому проведите тщательное тестирование после применения этой рекомендации. Кроме того, если сравнение с учетом культуры не требуется, попробуйте использовать \"StringComparison.OrdinalIgnoreCase\".",
+          "defaultLevel": "note",
+          "helpUri": "https://learn.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1862",
+          "properties": {
+            "category": "Performance",
+            "isEnabledByDefault": true,
+            "tags": [
+              "Telemetry",
+              "EnabledRuleInAggressiveMode"
+            ]
+          }
+        },
+        "S2325": {
+          "id": "S2325",
+          "shortDescription": "Methods and properties that don't access instance data should be static",
+          "fullDescription": "Methods and properties that don’t access instance data should be marked as static for the following reasons:",
+          "defaultLevel": "warning",
+          "helpUri": "https://rules.sonarsource.com/csharp/RSPEC-2325",
+          "properties": {
+            "category": "Minor Code Smell",
+            "isEnabledByDefault": true,
+            "tags": [
+              "C#",
+              "MainSourceScope",
+              "TestSourceScope",
+              "SonarWay"
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
