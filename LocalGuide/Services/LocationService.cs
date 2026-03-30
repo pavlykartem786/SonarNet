@@ -6,12 +6,10 @@ using LocalGuide.Models;
 namespace LocalGuide.Services
 {
     /// <summary>
-    /// Service class for managing and querying Location entities.
-    /// Provides filtering, sorting, and CRUD operations for the LocalGuide platform.
     /// </summary>
     public class LocationService
     {
-        /// <summary>In-memory data store for locations (replace with DB context in production).</summary>
+        /// <summary>In-in production).</summary>
         private readonly List<Location> _locations;
 
         /// <summary>
@@ -24,8 +22,6 @@ namespace LocalGuide.Services
         }
 
         /// <summary>
-        /// Refactored entry point for filtering and sorting locations.
-        /// Delegates to focused private helpers to reduce cyclomatic complexity per method to ≤ 5.
         /// </summary>
         /// <param name="filter">Encapsulates all filter criteria.</param>
         /// <returns>Filtered and sorted list of locations.</returns>
@@ -48,8 +44,6 @@ namespace LocalGuide.Services
             => category == null ? src : src.Where(l => l.Category == category).ToList();
 
         /// <summary>
-        /// Filters locations within a rating range.
-        /// Clamps out-of-range bounds before applying the filter.
         /// </summary>
         private static List<Location> ApplyRatingFilter(List<Location> src, double? min, double? max)
         {
