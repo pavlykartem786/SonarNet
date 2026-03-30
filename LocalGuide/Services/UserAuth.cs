@@ -77,7 +77,6 @@ namespace LocalGuide.Services
             using var sha = SHA256.Create();
             var computedBytes = sha.ComputeHash(combined);
 
-            // Constant-time comparison to prevent timing attacks
             return CryptographicOperations.FixedTimeEquals(computedBytes, storedBytes);
         }
 
@@ -90,7 +89,6 @@ namespace LocalGuide.Services
         {
             if (user == null) throw new ArgumentNullException(nameof(user));
 
-            // Payload: userId|email|role|issuedAt (UTC)
             var payload = $"{user.Id}|{user.Email}|{user.Role}|{DateTime.UtcNow:O}";
             var keyBytes = Encoding.UTF8.GetBytes(_jwtSecret);
 
