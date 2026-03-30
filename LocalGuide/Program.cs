@@ -5,7 +5,6 @@ using LocalGuide.Services;
 
 namespace LocalGuide
 {
-    // SonarQube Fix: Додано ключове слово 'static', оскільки клас має лише статичні методи
     static class Program
     {
         static void Main(string[] args)
@@ -13,7 +12,6 @@ namespace LocalGuide
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.WriteLine("=== Веб-додаток 'Місцевий гід' (Варіант 5) ===\n");
 
-            // 1. Ініціалізація тестових даних
             var initialData = new List<Location>
             {
                 new Location {
@@ -38,14 +36,11 @@ namespace LocalGuide
                 }
             };
 
-            // 2. Створення екземплярів сервісів
             var locationService = new LocationService(initialData);
             var authService = new UserAuth("my-very-secure-secret-key-123");
 
-            // 3. Демонстрація роботи складного методу FilterAndSort (для ЛР 2)
             Console.WriteLine("--- Тестування фільтрації (Рефакторований метод) ---");
 
-            // Створюємо об'єкт фільтра з потрібними параметрами
             var filter = new LocationFilter(
                 Category: null,
                 MinRating: 4.0,
@@ -57,7 +52,6 @@ namespace LocalGuide
                 MaxResults: 5
             );
 
-            // Викликаємо рефакторований метод, передаючи йому об'єкт фільтра
             var filtered = locationService.FilterAndSortRefactored(filter);
 
             foreach (var loc in filtered)
