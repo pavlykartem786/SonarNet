@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\models\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\localguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\localguide.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEAB895C-451A-46E5-AEBE-50999B0EB4AE}|LocalGuide.Tests\\LocalGuide.Tests.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide.tests\\locationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEAB895C-451A-46E5-AEBE-50999B0EB4AE}|LocalGuide.Tests\\LocalGuide.Tests.csproj|solutionrelative:localguide.tests\\locationservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\services\\locationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\services\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\services\\userauth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\models\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|c:\\users\\chvik\\onedrive\\\u0440\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\localguide\\localguide\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31AEE07C-65C8-4E6F-8726-82AF5C6D4CD7}|LocalGuide\\LocalGuide.csproj|solutionrelative:localguide\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 639,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Review.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Models\\Review.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\Review.cs",
+              "RelativeToolTip": "LocalGuide\\Models\\Review.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:58:20.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\User.cs",
+              "RelativeToolTip": "LocalGuide\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:58:42.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\Location.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Models\\Location.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Models\\Location.cs",
+              "RelativeToolTip": "LocalGuide\\Models\\Location.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:56:14.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocalGuide.csproj",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\LocalGuide.csproj",
+              "RelativeDocumentMoniker": "LocalGuide\\LocalGuide.csproj",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\LocalGuide.csproj",
+              "RelativeToolTip": "LocalGuide\\LocalGuide.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T14:55:09.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LocationServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide.Tests\\LocationServiceTests.cs",
+              "RelativeDocumentMoniker": "LocalGuide.Tests\\LocationServiceTests.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide.Tests\\LocationServiceTests.cs",
+              "RelativeToolTip": "LocalGuide.Tests\\LocationServiceTests.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAswFoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:54:19.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LocationService.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Services\\LocationService.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Services\\LocationService.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Services\\LocationService.cs",
+              "RelativeToolTip": "LocalGuide\\Services\\LocationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:59:24.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserAuth.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Services\\UserAuth.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Services\\UserAuth.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Services\\UserAuth.cs",
+              "RelativeToolTip": "LocalGuide\\Services\\UserAuth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T15:00:03.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Program.cs",
+              "RelativeDocumentMoniker": "LocalGuide\\Program.cs",
+              "ToolTip": "C:\\Users\\chvik\\OneDrive\\\u0420\u043E\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u0456\u043B\\LocalGuide\\LocalGuide\\Program.cs",
+              "RelativeToolTip": "LocalGuide\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwEwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-08T14:53:10.133Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

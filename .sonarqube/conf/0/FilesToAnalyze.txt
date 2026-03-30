@@ -1,0 +1,6 @@
+﻿C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Models\Location.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Models\Review.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Models\User.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Program.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Services\LocationService.cs
+C:\study\3 курс\Заказ\ЯПЗТ\Новая папка\LocalGuide\LocalGuide\Services\UserAuth.cs
