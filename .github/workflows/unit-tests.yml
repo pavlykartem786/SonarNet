@@ -1,0 +1,41 @@
+name: .NET Core Unit Tests
+
+# Workflow буде запускатися у випадку push на гілки feature/* та develop,
+# а також при створенні pull request в develop.
+on:
+  push:
+    branches:
+      - 'feature/*'
+      - develop
+  pull_request:
+    branches:
+      - develop
+
+# Налаштовуємо завдання, яке виконується на останньому образі Ubuntu
+jobs:
+  build-and-test:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Крок 1: Завантаження коду з репозиторію
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # Крок 2: Налаштування .NET Core (наприклад, версія 6.0)
+      - name: Setup .NET Core
+        uses: actions/setup-dotnet@v3
+        with:
+          dotnet-version: '6.0.x'
+
+      # Крок 3: Відновлення залежностей
+      - name: Restore dependencies
+        run: dotnet restore
+
+      # Крок 4: Компіляція проєкту (без відновлення залежностей)
+      - name: Build
+        run: dotnet build --no-restore
+
+      # Крок 5: Запуск модульних тестів
+      # Якщо є тестовий проект, команда dotnet test його знайде
+      - name: Run unit tests
+        run: dotnet test --no-build --verbosity normal
